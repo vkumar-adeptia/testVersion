@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_AzureServiceBusAccount>
-        <au_clientsecret><![CDATA[]]></au_clientsecret>
-        <au_connectionString><![CDATA[Endpoint=sb://adeptiadevbus.servicebus.windows.net/;SharedAccessKeyName=test;SharedAccessKey=I6ltAmcnfyItonVRn0WMYMNbYXpqs7cvSaZHEbv39No=;EntityPath=sessiontestqueue]]></au_connectionString>
-        <au_version><![CDATA[1]]></au_version>
+        <au_creationDate><![CDATA[2023-02-08T12:26:42]]></au_creationDate>
         <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_version><![CDATA[1]]></au_version>
+        <au_tenantid><![CDATA[]]></au_tenantid>
+        <au_activeVersion><![CDATA[1]]></au_activeVersion>
+        <au_hostname><![CDATA[]]></au_hostname>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_id><![CDATA[1072772947031715840]]></au_id>
+        <au_synchronized><![CDATA[0]]></au_synchronized>
+        <au_clientsecret><![CDATA[]]></au_clientsecret>
+        <au_userOwner><![CDATA[IndigoUser:127000000001107055536473900001]]></au_userOwner>
+        <au_entityName><![CDATA[TestSessionQueue]]></au_entityName>
         <au_comments><![CDATA[null]]></au_comments>
         <au_groupOwner><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_groupOwner>
-        <au_userOwner><![CDATA[IndigoUser:127000000001107055536473900001]]></au_userOwner>
-        <au_description><![CDATA[TestSessionQueue]]></au_description>
-        <au_permissionMask><![CDATA[770]]></au_permissionMask>
-        <au_synchronized><![CDATA[0]]></au_synchronized>
         <au_clientid><![CDATA[]]></au_clientid>
+        <au_connectionString><![CDATA[Endpoint=sb://adeptiadevbus.servicebus.windows.net/;SharedAccessKeyName=test;SharedAccessKey=I6ltAmcnfyItonVRn0WMYMNbYXpqs7cvSaZHEbv39No=;EntityPath=sessiontestqueue]]></au_connectionString>
         <au_modifiedDate><![CDATA[2023-02-08T12:26:42]]></au_modifiedDate>
         <au_authenticationType><![CDATA[Shared Access Signatures]]></au_authenticationType>
-        <au_id><![CDATA[1072772947031715840]]></au_id>
-        <au_projectOwner><![CDATA[Default]]></au_projectOwner>
-        <au_activeVersion><![CDATA[1]]></au_activeVersion>
-        <au_creationDate><![CDATA[2023-02-08T12:26:42]]></au_creationDate>
-        <au_hostname><![CDATA[]]></au_hostname>
-        <au_revision><![CDATA[null]]></au_revision>
-        <au_entityName><![CDATA[TestSessionQueue]]></au_entityName>
         <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
-        <au_tenantid><![CDATA[]]></au_tenantid>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_description><![CDATA[TestSessionQueue]]></au_description>
+        <au_projectOwner><![CDATA[Default]]></au_projectOwner>
     </AU_AzureServiceBusAccount>
     <columnInfo dbtype="4">
         <column name="au_id" type="12"/>
